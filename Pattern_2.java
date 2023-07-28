@@ -3,7 +3,7 @@ public class Pattern_2 {
         for(int i=0;i<5;i++)
         {
             for(int j=0;j<5;j++)
-                System.out.print("8");
+                System.out.print("*");
             System.out.println();
         }
 
